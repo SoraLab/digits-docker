@@ -2,7 +2,7 @@
 
 Show Caffe training accuracy by modified prototxt.
 
-![caffe-training-accuracy](https://github.com/SoraLab/digits-docker/blob/master/img/caffe-training-accuracy.png)
+![caffe-training-accuracy](https://github.com/SoraLab/digits-docker/blob/master/img/caffe-training-accuracy.png?raw=true)
 
 # Docker Image
 
